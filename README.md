@@ -33,13 +33,9 @@ Contact: davidthuo@csiro.au  | X: @ThuoPap
 ## How to Use this Repository
 
 - Go through the topics in order or jump to the one that interests you.
-- 
 - Each folder contains markdown files with tutorials and hands-on examples.
-- 
-- The `datasets` folder contains sample data for practice.
-- 
-- The `exercises` folder has exercises to test your understanding of each topic.
-
+- The datasets folder contains sample data for practice.
+- The exercises folder has exercises to test your understanding of each topic.
 
 ## More
 
