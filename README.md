@@ -29,8 +29,13 @@ Topics
 
 
 To use this lessons from github
+
 •	Download the the zip file
+
 •	Unzip the files in your computer and mark where you've saved it in your computer.
+
 •	Open RStudio
+
 •	In the folder above, open .Rmd
+
 •	Practice practice make perfect!!!!
