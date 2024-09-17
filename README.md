@@ -7,7 +7,9 @@ Contact: davidthuo@csiro.au  | X: @ThuoPap
 Let us:
 
 •	Download R https://cran.r-project.org/ 
+
 •	Download RStudio https://rstudio.com/products/rstudio/download/ 
+
 •	Rmarkdown – To be introduced later in the course.
 
 
