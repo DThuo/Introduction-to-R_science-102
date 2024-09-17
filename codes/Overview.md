@@ -59,13 +59,93 @@ Create a variable
 
        2. Now view the result variable in the environment pane.
 
-##Task 3:
+Write and Run Simple Code
 
-How to open the HELP tab
+1. Open RStudio.
+2. In the script pane, write the following:
+   ```r
+   # Basic Arithmetic Operations in R
+   
+# multiplication
+   5 * 3 
+   
+#Squareroot
+   sqrt(25) 
+   
+# Division
 
-    1. Type the following in the console
+9 / 3  
 
-            ?mean
+# Exponentiation
+2^3  
+
+# Modulus (remainder of division)
+7 %% 3  
+
+# Integer division (quotient)
+7 %/% 3  
+
+
+##Task 2:
+
+Create a variable
+
+       1. Here we will assign result of an expression to a variable
+ 
+             x <- 10
+             
+             y <- 5t
+
+       # Print the value of a variable
+             
+             print(x) 
+
+
+
+##Data Types in R
+R supports different types of data: 
+
+-Numeric: Numbers (e.g., 1, 2.5, -4)
+-Character: Strings (e.g., "Hello", "R")
+-Logical: TRUE or FALSE
+
+
+# Numeric
+num <- 42
+
+# Character (strings)
+name <- "R Language"
+
+# Logical (Boolean)
+flag <- TRUE
+
+# Check the data type using class()
+class(num)    # Output: "numeric"
+class(name)   # Output: "character"
+class(flag)   # Output: "logical"
+
+
+
+# Create a numeric vector
+numbers <- c(1, 2, 3, 4, 5)
+
+# Create a character vector
+names <- c("Alice", "Bob", "Charlie")
+
+# Access elements in a vector (indexing starts from 1)
+numbers[2]  # Output: 2
+
+# Modify an element in a vector
+numbers[3] <- 10
+numbers  # Output: 1, 2, 10, 4, 5
+
+# Logical indexing
+numbers[numbers > 3]  # Output: 10, 4, 5
+
+
+
+
+
 
 Once done, feel free to experiment with more R commands.
 
