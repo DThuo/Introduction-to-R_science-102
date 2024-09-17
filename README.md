@@ -4,7 +4,7 @@ Author: Thuo David, PhD, Research Scientist Commonwealth Research and Industrial
 
 Contact: davidthuo@csiro.au  | X: @ThuoPap  
 
-Let us:
+## Let us:
 
 •	Download R https://cran.r-project.org/ 
 
@@ -13,11 +13,11 @@ Let us:
 •	Rmarkdown – To be introduced later in the course.
 
 
-Cheat Sheet
+##Cheat Sheet
  https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf 
 
 
-Topics
+## Topics
 1.	Basics of R programming
 2.	Control structures 
 3.	Working with Functions
@@ -30,7 +30,18 @@ Topics
 10.	Good programming statistics
 
 
-To use this lessons from github
+## How to Use this Repository
+
+- Go through the topics in order or jump to the one that interests you.
+- 
+- Each folder contains markdown files with tutorials and hands-on examples.
+- 
+- The `datasets` folder contains sample data for practice.
+- 
+- The `exercises` folder has exercises to test your understanding of each topic.
+
+
+## More
 
 •	Download the the zip file
 
