@@ -4,6 +4,7 @@ Control structures manage the flow of code execution in R, useful for decision-m
 
 ## 1. `if`, `else if`, `else`
 
+#The `if`, `else if`, and `else` statements control the flow based on conditions. 
 ### Syntax:
 ```r
 if (condition) {
@@ -50,4 +51,32 @@ x <- 1; repeat { print(x); x <- x + 1; if (x > 5) break }
 ifelse(test, yes, no)
  
  x <- 1:5; ifelse(x %% 2 == 0, "Even", "Odd")
+
+
+
+
+
+
+
+
+
+
+![cps](https://github.com/user-attachments/assets/b4618b09-74b0-4f0d-bae8-058ec1655cd3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
